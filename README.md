@@ -6,6 +6,8 @@
 
 ## Tech and Framework Used
 
+JavaScript ES6 
+
 ## License
 
 * MIT Catherine Looper
